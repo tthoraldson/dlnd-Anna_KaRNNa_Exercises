@@ -1,0 +1,7 @@
+checkpoints/*
+.ipynb_checkpoints/*
+assets/*
+
+requirements.txt
+anna.txt
+Anna_KaRNNa.ipynb
